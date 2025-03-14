@@ -1,11 +1,11 @@
 export default {
-  Title: '韩小韩博客',
+  Title: 'BLOG',
   Site: 'https://www.vvhan.com',
   Subtitle: '不曾与你分享的时间,我在进步.',
-  Description: '韩小韩博客 专注于前开发与相关技术的实战分享，涵盖Vue框架、Node.js、Serverless等，并涉及Node、Python、Linux、Docker等领域。同时，博客也分享作者的生活、音乐和旅行的热爱。',
-  Author: '.𝙃𝙖𝙣',
+  Description: '',
+  Author: '.Felex',
   Motto: '运气是计划之外的东西.',
-  Avatar: 'https://q1.qlogo.cn/g?b=qq&nk=1655466387&s=640',
+  Avatar: '/assets/images/Avatar/0a3149eb8c4199877b2e4ee1e105043.jpg',
   // 导航栏 (新窗口打开 newWindow: true)
   Navs: [
     { text: '朋友', link: '/links', icon: '/assets/images/svg/Navs/links.svg' },
