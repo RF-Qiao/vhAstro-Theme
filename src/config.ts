@@ -3,7 +3,7 @@ export default {
   Site: 'https://www.vvhan.com',
   Subtitle: '不曾与你分享的时间,我在进步.',
   Description: '',
-  Author: '.Felex',
+  Author: '.Felix',
   Motto: '运气是计划之外的东西.',
   Avatar: '/assets/images/Avatar/0a3149eb8c4199877b2e4ee1e105043.jpg',
   // 导航栏 (新窗口打开 newWindow: true)
