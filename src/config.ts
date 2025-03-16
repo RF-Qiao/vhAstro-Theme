@@ -18,10 +18,10 @@ export default {
   ],
   // 侧边栏个人网站
   WebSites: [
-    { text: 'Github', link: 'https://github.com/uxiaohan', icon: '/assets/images/svg/WebSites/github.svg' },
-    { text: '韩小韩API', link: 'https://api.vvhan.com', icon: '/assets/images/svg/WebSites/api.svg' },
-    { text: '每日热榜', link: 'https://hot.vvhan.com', icon: '/assets/images/svg/WebSites/hot.svg' },
-    { text: '骤雨重山图床', link: 'https://wp-cdn.4ce.cn', icon: '/assets/images/svg/WebSites/img.svg' },
+    { text: 'Github', link: 'https://github.com/RF-Qiao', icon: '/assets/images/svg/WebSites/github.svg' },
+   // { text: '韩小韩API', link: 'https://api.vvhan.com', icon: '/assets/images/svg/WebSites/api.svg' },
+    { text: '每日热榜', link: 'https://tophub.today/', icon: '/assets/images/svg/WebSites/hot.svg' },
+  //  { text: '骤雨重山图床', link: 'https://wp-cdn.4ce.cn', icon: '/assets/images/svg/WebSites/img.svg' },
     { text: 'HanAnalytics', link: 'https://analytics.vvhan.com', icon: '/assets/images/svg/WebSites/analytics.svg' },
   ],
   // Cover 使用绝对路径
